@@ -10,7 +10,7 @@
 ### Prerequisites
 Make sure you have installed all of the following prerequisites on your development machine:
   - Python - Download & Install Python.
-  - Git - Download & Install Git. OSX and Linux machines typically have this already installed.
+  - Git(Optional) - Download & Install Git. OSX and Linux machines typically have this already installed.
 ### Clone the files to local computer
 ```sh
 $ git clone https://github.com/alexsbc303/PLA-Learning-Algorithm.git
