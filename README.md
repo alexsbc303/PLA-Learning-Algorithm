@@ -21,7 +21,7 @@ Run DataEmit
 $ cd PLA-Learning-Algorithm
 $ python DataEmit.py [5,2,3] 10 10
 ```
-Run PLA
+Run PLA (after generating data by DataEmit.py)
 ```sh
 $ cd PLA-Learning-Algorithm
 $ python PLA.py train.txt
