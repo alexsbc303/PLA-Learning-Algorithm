@@ -9,8 +9,9 @@
   - PLA.py : Output the learned weight and plot graph using PLA Algorithm
 ### Prerequisites
 Make sure you have installed all of the following prerequisites on your development machine:
-  - Python - Download & Install Python.
-  - Git(Optional) - Download & Install Git. OSX and Linux machines typically have this already installed.
+  - Python - Download & Install Python. Version: Python 2.7.15 (default, Jan 12 2019, 21:07:57)
+  - Git(Optional) - Download & Install Git. MacOSX and Linux machines typically have this already installed.
+  - Runtime Environment - Terminal in MacOSX
 ### Clone the files to local computer
 ```sh
 $ git clone https://github.com/alexsbc303/PLA-Learning-Algorithm.git
