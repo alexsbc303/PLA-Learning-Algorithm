@@ -1,6 +1,6 @@
 import numpy as np
 import argparse
-import random
+import random as rand
 import matplotlib.pyplot as plt
 
 # input: python DataEmit.py [5,2,3] 4 5
@@ -32,8 +32,8 @@ n = args.n
 
 # Generate data 
 while not finish: 
-  x1 = round(random.uniform(-100,100), 2)
-  x2 = round(random.uniform(-100,100), 2)  
+  x1 = round(rand.uniform(-100,100), 2)
+  x2 = round(rand.uniform(-100,100), 2)  
   sign = x1*w1 + x2*w2 + w0
   if sign > 0 and m > 0:
     sign = '+'

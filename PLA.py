@@ -67,7 +67,7 @@ while not done:
 			i = 0
 			break
 
-		# done loop when a full cycle of no mistakes 
+		# Done loop when a full cycle of no mistakes 
 		if i == len(sign_list) - 1:
 			done = True
 
